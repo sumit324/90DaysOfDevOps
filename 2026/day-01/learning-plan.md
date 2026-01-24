@@ -36,6 +36,7 @@ Push notes & commands daily
                                 Dockerized app
                                 Deployed on AWS EC2
                                 README explaining architecture
+                                
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Time Manaement 
 
@@ -46,5 +47,19 @@ Push notes & commands daily
 --60 min	Learn new topic
 --60 min	Hands-on practice
 --15 min	Notes + GitHub update
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-         
+# Mention your current level
+--(MCA fresher (last year student)
+# Define 3 clear goals for the next 90 days
+--(work on real project)
+--(successfull deploy application)
+--(handle cloud infrastructure and make a good devops engineer)
+# Define 3 core DevOps skills you want to build
+--(Linux troubleshooting, CI/CD pipelines, Kubernetes debugging,cloud,AWS)
+Allocate a weekly time budget
+(example: 2–2.5 hours per day on weekdays, 4-6 hours weekends)
+Keep the document under 1 page
+Be honest and realistic; consistency matters more than perfection
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------         
