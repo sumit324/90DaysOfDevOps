@@ -39,10 +39,15 @@ ANS --  #WHAT --> Manages logs, Restarts failed services automatically , Starts 
 ## List 5 commands you would use daily 
 ANS --> 
 1)$cd = Change Directory (Folder).
+
 2)$top/htop = Check All Process.
+
 3)$ls = view all file list. 
+
 4)$mkdir = Make Directory.
+
 5)$chmod = Change File Permission.
+
 6)$systemctl status = check server status. 
 
 
