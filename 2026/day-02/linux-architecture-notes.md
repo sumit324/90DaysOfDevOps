@@ -31,6 +31,7 @@ Process Management --> Kernel schedules processes using CPU time , Priority hand
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## What systemd does and why it matters ?
 ANS --  #WHAT --> Manages logs, Restarts failed services automatically , Starts services in parallel (fast boot)
+
         #WHY --> Almost all servers use systemd, Auto-restarting crashed apps, Managing dependencies between services
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
